@@ -91,7 +91,7 @@ npx playwright show-report
 ## Author
 
 Rahul Gavada
-QA Engineer | Playwright Automation | Salesforce QA | Salesforce Administratoe
+QA Engineer | Playwright Automation | Salesforce QA | Salesforce Administrator
 
 ---
 
